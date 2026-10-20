@@ -1,0 +1,7 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dim">#99FFFFFF</color>
+    <color name="divider">#1FFFFFFF</color>
+    <color name="icon_bg">#FFFFFFFF</color>
+</resources>
